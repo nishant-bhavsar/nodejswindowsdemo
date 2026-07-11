@@ -1,0 +1,12 @@
+{
+  "name": "nodejs-azure-windows-app",
+  "version": "1.0.0",
+  "description": "Hello World Node.js app for Azure Windows Web App",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": ">=22.0.0"
+  }
+}
